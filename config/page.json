@@ -1,0 +1,15 @@
+{
+	"page": {
+		"index": {
+			"title":"indexlist",
+			"list":{
+				"one":"index",
+				"two":"test",
+				"therr":"php"
+			},
+			"path":"sss"
+		},
+		"test":"test",
+		"php":"php"
+	}
+}
